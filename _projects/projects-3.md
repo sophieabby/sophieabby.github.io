@@ -9,6 +9,6 @@ We study the origins and diversification of metabolic pathways involved in bioen
 
 
 
-This project is funded by the French National Research Agency, "ANR". 
+This project is funded by the French National Research Agency, "ANR".
 
 <img src='/images/ANR-logo-2021-sigle.jpg' width='100' alt='ANR logo' style='float: left; margin-right: 10px;'/>
