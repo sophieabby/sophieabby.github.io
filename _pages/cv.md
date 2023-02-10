@@ -32,13 +32,13 @@ Academic experience
   * Topic: Phylogenetics and evolutionary genomics of prokaryotes
   * Supervision: Vincent Daubin & Manolo Gouy
   
-Skills
+Editorial activities
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* PCI Microbiology 
+  * <https://microbiol.peercommunityin.org/>
+  * Managing board member
+* PCI Genomics, PCI Evolutionary Biology
+  * Recommender
 * Skill 3
 
 Publications
