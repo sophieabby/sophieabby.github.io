@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biology and Computer Sciences, Paris 7 University, 2004
+* M.S. in Biology and Computer Sciences, Paris 7 University, 2006
+* Ph.D in Bioinformatics, Lyon 1 University, 2010
 
-Work experience
+Academic experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2016: Postdoctoral Researcher & Marie Curie Fellow
+  * University of Vienna
+  * Topic: Evolution and adaptation of Thaumarchaeota to moderate environments
+  * Supervision: Christa Schleper
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2010-2014: Postdoctoral Researcher
+  * Pasteur Institute, Paris
+  * Topic: Molecular evolution of bacterial secretion systems
+  * Supervision: Eduardo Rocha
+
+* 2006-2010: PhD Student
+  * Laboratoire de Biométrie et Biologie Evolutive, Lyon 1 University
+  * Topic: Phylogenetics and evolutionary genomics of prokaryotes
+  * Supervision: Vincent Daubin & Manolo Gouy
   
 Skills
 ======
