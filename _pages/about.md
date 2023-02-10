@@ -12,6 +12,11 @@ I am a CNRS researcher in Grenoble, France. I work at the [TIMC lab](https://www
 With my colleagues Nelle Varoquaux and Ivan Junier, we manage the Computational Biology group [Compbio@TrEE](https://tree-timc.github.io/compbio/). 
 
 
+About my research
+------
+
+I am interested in the mechanisms responsible for the diversity of bacteria and archaea. I study these by analysing sequence data (proteins, genomes) at different scale:
+from enzyme-level, to molecular pathways, and cellular machinery level. 
 
 
 
@@ -19,14 +24,7 @@ With my colleagues Nelle Varoquaux and Ivan Junier, we manage the Computational 
 
 
 
-
-
-
-
-
-
-
-About this website
-======
+------
+**About this website**
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com). This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose and then extended.
