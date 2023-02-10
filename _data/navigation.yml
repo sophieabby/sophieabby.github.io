@@ -2,7 +2,7 @@
 main:
 
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
@@ -18,7 +18,10 @@ main:
            
   - title: "CompBio@TrEE"
     url: <https://tree-timc.github.io/compbio/>
-           
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
   # - title: "Blog Posts"
   #   url: /year-archive/
  

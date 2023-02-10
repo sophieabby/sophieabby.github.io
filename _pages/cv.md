@@ -39,10 +39,12 @@ Editorial activities
   * Managing board member
 * PCI Genomics, PCI Evolutionary Biology
   * Recommender
-* Skill 3
+  * Check out: <https://peercommunityin.org/current-pcis/>
 
 Publications
 ======
+See: <https://scholar.google.fr/citations?hl=en&user=pJ3h0iMAAAAJ&view_op=list_works>
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -59,6 +61,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
