@@ -24,6 +24,28 @@ See more info at https://academicpages.github.io/
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+## Instructions to run locally on Mac OS
+
+We'll be using a virtual environment. See also this page: <https://hackmd.io/@AstrobioMike/jekyll-conda-setup>.
+
+    conda create -y -n jekyllenv -c conda-forge rb-jekyll c-compiler compilers cxx-compiler python
+    conda activate jekyllenv
+    #gem install bundler:2.3.14
+    gem install bundler
+
+Then:
+    bundle clean
+    bundle update
+    bundle exec jekyll serve
+
+On the next occurrences:
+    jekyll serve
+
+NB: 
+1. Run `bundle clean` to clean up the directory (no need to run `--force`)
+1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+1. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
