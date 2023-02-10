@@ -17,7 +17,7 @@ main:
     url: /cv/
            
   - title: "CompBio@TrEE"
-    url: <https://tree-timc.github.io/compbio/>
+    url: https://tree-timc.github.io/compbio/
 
   # - title: "Portfolio"
   #   url: /portfolio/
