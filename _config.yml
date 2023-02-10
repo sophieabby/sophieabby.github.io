@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Sophie Abby"
   avatar           : "sophie_svalbard_small.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Grenoble, French Alps"
+  bio              : "Evolutionary microbiologist"
+  location         : "Grenoble, the French Alps"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=abby+ss"
   googlescholar    : "https://scholar.google.fr/citations?hl=en&user=pJ3h0iMAAAAJ&view_op=list_works"
