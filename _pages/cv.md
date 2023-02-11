@@ -32,14 +32,16 @@ Academic experience
   * Topic: Phylogenetics and evolutionary genomics of prokaryotes
   * Supervision: Vincent Daubin & Manolo Gouy
   
-Editorial activities
+Editorial and scientific outreach activities
 ======
 * PCI Microbiology 
-  * <https://microbiol.peercommunityin.org/>
   * Managing board member
+  * <https://microbiol.peercommunityin.org/>
 * PCI Genomics, PCI Evolutionary Biology
   * Recommender
   * Check out: <https://peercommunityin.org/current-pcis/>
+* French Microbiology Society
+  * Board member of the ["Biodiversité & Evolution" section](https://www.sfm-microbiologie.org/presentation-de-la-sfm/sections-et-groupes-de-travail/biodiversite-et-evolution/). 
 
 Publications
 ======
