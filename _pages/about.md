@@ -15,8 +15,8 @@ With my colleagues Nelle Varoquaux and Ivan Junier, we manage the Computational 
 About my research
 ------
 
-I am interested in the mechanisms responsible for the diversity of bacteria and archaea. I study these by analysing sequence data (proteins, genomes) at different scales:
-from individual enzyme-level, to molecular pathways and cellular machineries level. 
+I am a computational microbiologist. I am interested in the mechanisms responsible for the diversity of bacteria and archaea. I study these by analysing sequence data (proteins, genomes) at different scales:
+from individual enzyme-level, to molecular pathways and cellular machineries level. To this end, I develop, or use existing tools for comparative genomics, phylogenomics and molecular evolution. 
 
 
 
