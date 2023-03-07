@@ -26,6 +26,17 @@ TO DO that:
 - [ ] Fix format of refs in new file
 - [x] Check why the three example pubs are still used... cause kept in examples folder? YES! Moved to Trash
 
+### Publishing the site
+
+Use of Gh-Pages. Deployed, but for now does not work (as of **7th of Mar 2023**).
+
+Have a look here? https://josephtingiris.github.io/jekyll/github/metadata/2017/10/15/no-github-api-authentication-could-be-found/ 
+Otherwise, ask Nelle...
+
+### Site design
+
+Remove for now unused sections: Talks, Teaching?
+
 # Notes provided with Academic pages
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
