@@ -18,6 +18,12 @@ I'd rather modify it. I've now created a `scripts` folder based on the one creat
 
 => make a combination between the `_includes/archive-single.html` files from this repo and our compbio website?
 
+TO DO that:
+
+- [ ] Create a fixed file based on `_includes/archive-single.html`
+- [ ] Include it in `_pages/publications.md`
+- [ ] Fix link to Googlescholar... in `_pages/publications.md` => why not working?
+
 # Notes provided with Academic pages
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
