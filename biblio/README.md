@@ -20,4 +20,8 @@ mkdir results_03_2023
 
 # Then run the script:
 python ../scripts/convert_bibtex_to_md.py 2023-03_MyPapers.bib results_03_2023/
+
+# Then copy the publications in the right folder, to add publications to the website:
+cp results_03_2023/*.md ../_publications/
+
 ```
