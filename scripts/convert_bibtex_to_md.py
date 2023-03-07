@@ -64,7 +64,7 @@ def create_initials(author):
 
 def create_filename(citation):
     authors = get_authors(citation)[:4]
-    # Ok… Let's just remove anything non alphanumerical which is a bit
+    # Ok... Let's just remove anything non alphanumerical which is a bit
     # annoying for people with special characters in their name but will save
     # us some trouble later on.
     authors = [remove_accents(a) for a in authors]
