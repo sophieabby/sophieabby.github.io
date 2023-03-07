@@ -20,9 +20,11 @@ I'd rather modify it. I've now created a `scripts` folder based on the one creat
 
 TO DO that:
 
-- [x] Create a fixed file based on `_includes/archive-single.html`
+- [x] Create a fixed file based on `_includes/archive-single.html` => `_includes/archive-single-bib.html`
 - [x] Include it in `_pages/publications.md`
-- [x] Fix link to Googlescholar... in `_pages/publications.md` => why not working?
+- [x] Fix link to Googlescholar... in `_pages/publications.md` => was not working cause ref to author. 
+- [ ] Fix format of refs in new file
+- [ ] Check why the three example pubs are still used... cause kept in examples folder?
 
 # Notes provided with Academic pages
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
