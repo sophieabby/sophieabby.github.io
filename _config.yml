@@ -321,3 +321,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Added to enable gh-pages
+github: [metadata] 
