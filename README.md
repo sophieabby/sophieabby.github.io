@@ -35,7 +35,10 @@ Otherwise, ask Nelle...
 
 ### Site design
 
-Remove for now unused sections: Talks, Teaching?
+- [x] Remove for now unused sections: Talks, Teaching?
+- [x] Remove same sections from CV page
+- [x] Use CV publications' design on the publications page: modif file `_pages/publications.md` to include same file as file `_pages/cv.md`: `archive-single-cv.html` instead of `archive-single-bib.html`
+
 
 # Notes provided with Academic pages
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.

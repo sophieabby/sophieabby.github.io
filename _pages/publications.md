@@ -17,6 +17,6 @@ author_profile: true
 
 <!-- Modification based on Nelle's version in our compbio website -->
 
-{% for post in site.publications reversed %}
+<ul>{% for post in site.publications reversed %}
   {% include archive-single-bib.html %}
-{% endfor %}
+{% endfor %}</ul>
