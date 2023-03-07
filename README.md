@@ -1,3 +1,24 @@
+
+# My personal notes
+
+### For Mac OS installation and running
+
+See below the appropriate, updated section.
+
+### Updating publications design
+
+I'm not so happy with the design, I find it a bit tricky to update, as the script provided in `markdown_generator` relies on a TSV file, and cannot be automatically updated from a bibTex file. 
+I'd rather modify it. I've now created a `scripts` folder based on the one created by Nelle for our compbio website. 
+
+- It is now possible to automatically generate md files from a bibtex file, within the dedicated folder `biblio`
+- Now, the file `_includes/archive-single.html` needs to be updated, or modified in order to 
+    - directly feed on generated md files
+    - display in a way I like (i.e. remove verbous forms...)
+- Also, Nelle's script to generate md files from bib file should be modified to add fields... See which fields: e.g., journal, date, etc...
+
+=> make a combination between the `_includes/archive-single.html` files from this repo and our compbio website?
+
+# Notes provided with Academic pages
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
