@@ -24,7 +24,7 @@ TO DO that:
 - [x] Include it in `_pages/publications.md`
 - [x] Fix link to Googlescholar... in `_pages/publications.md` => was not working cause ref to author. 
 - [ ] Fix format of refs in new file
-- [ ] Check why the three example pubs are still used... cause kept in examples folder?
+- [x] Check why the three example pubs are still used... cause kept in examples folder? YES! Moved to Trash
 
 # Notes provided with Academic pages
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
