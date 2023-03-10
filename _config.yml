@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sophie Abby's Web Site"
+title                    : "Sophie Abby"
 title_separator          : "-"
 name                     : &name "Sophie Abby"
 description              : &description "personal description"
