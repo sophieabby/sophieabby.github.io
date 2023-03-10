@@ -22,3 +22,9 @@ Join us!
 ------
 
 If you are interested in discussing possibilities to join us, at [CompBio@TrEE](https://tree-timc.github.io/compbio), don't hesitate to send an informal enquiry. More [here](https://tree-timc.github.io/compbio/joinus/).
+
+
+**About this website**
+------
+
+This website is still under development. In particular, more content about my projects will come soon. 
