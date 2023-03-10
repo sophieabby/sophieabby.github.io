@@ -21,4 +21,4 @@ from individual enzyme-level, to molecular pathways and cellular machineries lev
 Join us!
 ------
 
-Don't hesitate to send us informal enquiries. More [here](https://tree-timc.github.io/compbio/joinus/).
+If you are interested in discussing possibilities to join us, at [CompBio@TrEE](https://tree-timc.github.io/compbio), don't hesitate to send an informal enquiry. More [here](https://tree-timc.github.io/compbio/joinus/).
