@@ -18,13 +18,7 @@ About my research
 I am a computational microbiologist. I am interested in the mechanisms responsible for the diversity of bacteria and archaea. I study these by analysing sequence data (proteins, genomes) at different scales:
 from individual enzyme-level, to molecular pathways and cellular machineries level. To this end, I develop, or use existing tools for comparative genomics, phylogenomics and molecular evolution. 
 
-
-
-
-
-
-
+Join us!
 ------
-**About this website**
 
-This is a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com). This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose and then extended.
+Don't hesitate to send us informal enquiries. More [here](https://tree-timc.github.io/compbio/joinus/).
