@@ -20,7 +20,7 @@ For more details, have a look at the corresponding publications:
 
 *The MacSyFinder v2 search engine, from [Néron et. al 2023.](https://doi.org/10.1101/2022.09.02.506364)*
 
-<br/><img src='/images/Figure1_search_engine_MSF_v4.png' width='300'><br/>
+<br/><img src='/images/Figure1_search_engine_MSF_v4.png' width='600'><br/>
 
 ## MacsyModels, an organization for sharing MacSyFinder models
 
