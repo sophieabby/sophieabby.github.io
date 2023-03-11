@@ -6,12 +6,12 @@ collection: projects
 
 We develop software and methods to improve genome annotations.
 
-### MacSyFinder, the macromolecular system finder
+## MacSyFinder, the macromolecular system finder
 
 In particular we developed [MacSyFinder](https://github.com/gem-pasteur/macsyfinder), a software to:
 
-- 1. **model** molecular systems (pathways, machineries...) in microbial genomes
-- 1. **annotate** them in genomes
+1. **model** molecular systems (pathways, machineries...) in microbial genomes
+1. **annotate** them in genomes
 
 MacSyFinder takes advantage of the genomic organization by function of archaeal and bacterial genomes: genes participating in a same function, complex, pathway...
 tend to co-localize on the genome. This enables powerful, system-level (instead of gene-by-gene) annotation of functions.
@@ -20,9 +20,9 @@ For more details, have a look at the corresponding publications:
 
 *The MacSyFinder v2 search engine, from [Néron et. al 2023.](https://doi.org/10.1101/2022.09.02.506364)*
 
-<br/><img src='/images/Figure1_search_engine_MSF_v4.png'><br/>
+<br/><img src='/images/Figure1_search_engine_MSF_v4.png' width='300'><br/>
 
-### MacsyModels, an organization for sharing MacSyFinder models
+## MacsyModels, an organization for sharing MacSyFinder models
 
 Since MacSyFinder version 2, it is possible to easily download, install and shared publicly available MacSyFinder models.
 This is done from the [official MacSy-models organization](https://github.com/macsy-models). 
