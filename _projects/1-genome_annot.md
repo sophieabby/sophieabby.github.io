@@ -16,9 +16,9 @@ In particular we developed [MacSyFinder](https://github.com/gem-pasteur/macsyfin
 MacSyFinder takes advantage of the genomic organization by function of archaeal and bacterial genomes: genes participating in a same function, complex, pathway...
 tend to co-localize on the genome. This enables powerful, system-level (instead of gene-by-gene) annotation of functions.
 
-For more details, have a look at the corresponding publications:
+For more details, have a look at the [corresponding publication(s)](https://doi.org/10.1101/2022.09.02.506364).
 
-*The MacSyFinder v2 search engine, from [Néron et. al 2023.](https://doi.org/10.1101/2022.09.02.506364)*
+*The MacSyFinder v2 search engine, figure from [Néron et. al 2023.](https://doi.org/10.1101/2022.09.02.506364)*
 
 <br/><img src='/images/Figure1_search_engine_MSF_v4.png' width='600'><br/>
 
