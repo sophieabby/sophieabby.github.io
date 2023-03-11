@@ -30,7 +30,6 @@ Several are readily available, as [described in this paper](https://doi.org/10.1
 
 As of March 2023, Macsy Models include the detection of:
 
-- CRISPR-Cas systems
-- bacterial protein secretion systems
-- type IV-filament super-family members
-- conjugative systems
+- CRISPR-Cas systems [CasFinder](https://github.com/macsy-models/CasFinder)
+- bacterial protein secretion systems and type IV-filament super-family members [TXSScan](https://github.com/macsy-models/TXSScan)
+- conjugative systems [CONJScan](https://github.com/macsy-models/CONJScan)
