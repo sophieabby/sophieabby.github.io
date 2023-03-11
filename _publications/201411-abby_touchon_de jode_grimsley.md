@@ -1,5 +1,5 @@
 ---
-title: "Bacteria in Ostreococcus tauri cultures -- friends, foes or hitchhikers?
+title: "Bacteria in Ostreococcus tauri cultures -- friends, foes or hitchhikers?"
 collection: publications
 permalink: /publication/201411-abby_touchon_de jode_grimsley
 venue: ''
