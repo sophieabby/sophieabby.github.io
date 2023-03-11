@@ -42,6 +42,9 @@ Editorial and scientific outreach activities
   * Check out: <https://peercommunityin.org/current-pcis/>
 * French Microbiology Society
   * Board member of the ["Biodiversité & Evolution" section](https://www.sfm-microbiologie.org/presentation-de-la-sfm/sections-et-groupes-de-travail/biodiversite-et-evolution/). 
+* Organization of conferences:
+  * 2023 [French Alphy/AIEM meeting](https://alphy-aiem-2023.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en), Grenoble (Joint meeting for "Alignment and Phylogeny", and "Interdisciplinary Approaches for Molecular Evolution" CNRS work groups)
+  * 2021 [Alphy meeting](https://lbbe-dmz.univ-lyon1.fr/spip_alphy/spip.php?article83), virtual edition.
 
 Publications
 ======
