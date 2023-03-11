@@ -26,7 +26,7 @@ Since MacSyFinder version 2, it is possible to easily download, install and shar
 This is done from the [official MacSy-models organization](https://github.com/macsy-models). 
 Several are readily available, as [described in this paper](https://doi.org/10.1101/2022.09.02.506364), reviewed and [recommended by PCI Genomics](https://doi.org/10.24072/pci.genomics.100233).
 
-As of Mar 2023, Macsy Models include the detection of:
+As of March 2023, Macsy Models include the detection of:
 
 - CRISPR-Cas systems
 - bacterial protein secretion systems
