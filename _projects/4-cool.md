@@ -6,7 +6,7 @@ collection: projects
 
 I am a co-investigator of the ["Origin of Life" consortium](https://origin-life.univ-grenoble-alpes.fr/) in Grenoble that gathers chemists, biologists and astronomers. We investigate the conditions of inhabitable planetary formations, and the transition from chemistry to biology, including early evolution. 
 
-I am a member of the [French Astrobiology society](https://www.exobiologie.fr/) and their website is full of interesting content! (in French though)
+I am a member of the [French Astrobiology society](https://www.exobiologie.fr/) and their website is full of interesting content! Also, a website was started to promote [education on Astrobiology](https://astrobioeducation.org/fr/) (in French).
 
 This project is funded by the IDEX of the Grenoble Alpes University.
 
