@@ -16,19 +16,19 @@ In particular we developed [MacSyFinder](https://github.com/gem-pasteur/macsyfin
 MacSyFinder takes advantage of the genomic organization by function of archaeal and bacterial genomes: genes participating in a same function, complex, pathway...
 tend to co-localize on the genome. This enables powerful, system-level (instead of gene-by-gene) annotation of functions.
 
-For more details, have a look at the [corresponding publication(s)](https://doi.org/10.1101/2022.09.02.506364).
+For more details, have a look at the [corresponding publication(s)](https://doi.org/10.24072/pcjournal.250).
 
 *The MacSyFinder v2 search engine*
 
 <br/><img src='/images/Figure1_search_engine_MSF_v4.png' width='600'><br/>
 
-Figure from [Néron et. al 2023.](https://doi.org/10.1101/2022.09.02.506364), the MSF v2 paper reviewed and [recommended by PCI Genomics](https://doi.org/10.24072/pci.genomics.100233).
+Figure from [Néron et. al 2023.](https://doi.org/10.24072/pcjournal.250), the MSF v2 paper reviewed and [recommended by PCI Genomics](https://doi.org/10.24072/pci.genomics.100233).
 
 ## MacsyModels, an organization for sharing MacSyFinder models
 
 Since MacSyFinder version 2, it is possible to easily download, install and share publicly available MacSyFinder models.
 This is done from the [official MacSy-models organization](https://github.com/macsy-models). 
-Several models are readily available, as [described in Néron et. al 2023.](https://doi.org/10.1101/2022.09.02.506364).
+Several models are readily available, as [described in Néron et. al 2023.](https://doi.org/10.24072/pcjournal.250).
 
 As of March 2023, Macsy Models included models for the detection of:
 
