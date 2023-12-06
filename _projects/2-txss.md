@@ -1,6 +1,6 @@
 ---
 title: "Bacterial Secretion Systems"
-excerpt: "We study the evolution of bacterial secretion systems.<br/><img src='/images/T3SS_striking_from_Fig7.svg' width='300'>"
+excerpt: "We study the evolution and diversity of bacterial secretion systems.<br/><img src='/images/T3SS_striking_from_Fig7.svg' width='300'>"
 collection: projects
 ---
 
