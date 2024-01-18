@@ -37,3 +37,10 @@ As of March 2023, Macsy Models included models for the detection of:
 - conjugative systems [CONJScan](https://github.com/macsy-models/CONJScan)
 
 For more on how to install MacSyFinder and the associated Macsy Models, have a look at the comprehensive [MacSyFinder's documentation](https://macsyfinder.readthedocs.io/en/latest/).
+
+## Writing own MacsyModels
+
+In the following publication, we explain step-by-step how one can write its own MacsyModels (models' definition and profiles). 
+If interested, have a look here:
+
+[Abby, Denise and Rocha 2024](https://hal.science/hal-04257010v1) Identification of Protein Secretion Systems in Bacterial Genomes Using MacSyFinder Version 2, 2024 [https://link.springer.com/10.1007/978-1-0716-3445-5_1](https://link.springer.com/10.1007/978-1-0716-3445-5_1)
