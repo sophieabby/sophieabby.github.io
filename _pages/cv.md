@@ -45,7 +45,7 @@ PhD thesis supervisions
 ======
 * PhD thesis of Dr. Rémi Denise (2017-2019). 
   * Co-supervision with Dr. Eduardo Rocha. 
-  * Topic: ""
+  * Topic: "Co-option de systèmes moléculaires complexes de la membrane bactérienne et archéenne"
   * Insitut Pasteur, Paris.
 * PhD thesis of Sophie-Carole Chobert (2021-). 
   * Co-supervision with Dr. Fabien Pierrel. 
