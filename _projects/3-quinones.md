@@ -8,6 +8,10 @@ We study the origins and diversification of metabolic pathways involved in bioen
 
 We investigate in particular, the evolution of different biosynthetic pathways of quinones (find our recent [review here](https://doi.org/10.1016/j.bbabio.2020.148259)). Quinones are molecules involved in electron transfer chains. They are therefore crucial for cellular energy production.
 
+<img src='/images/UQ-pw.png' width='600'>
+
+*Variability of the ubiquinone biosynthetic pathway. In particular, three hydroxylation steps can be performed by different sets of enzymes depending on the species. In purple, UbiM performs the three hydroxylation steps (as in Neisseria meningitidis). In blue, two enzymes are required, as in Rhodobacter capsulatus. In red, three enzymes are required, as in Escherichia coli. Figure from [Kazemzadeh et al. Mol. Biol. Evol, 2023](https://doi.org/10.1093/molbev/msad219).*
+
 We combine experimental and computational approaches. This goes from developing tools for genome annotation of the proteins involved in the pathways, to the study of their functional diversification, and *in vivo* testing of their predicted functions. 
 
 An example of study using these combined approaches was recently [published in *Molecular Biology and Evolution*](https://doi.org/10.1093/molbev/msad219). We show the diversity of the pathway used by Pseudomonadota to produce ubiquinone, and at the same time explore the diversification of the flavin monooxygenase (FMO) protein family by gene transfers and duplications. 
@@ -16,7 +20,7 @@ An example of study using these combined approaches was recently [published in *
 
 *Evolution and diversification of the UQ-FMO protein family. Members of this family of hydroxylases evolved by duplication different regio-selectivities within the ubiquinone biosynthetic pathway - being able to hydroxylase Carbon 1, 5 and/or 6 of the UQ precursor. Figure from [Kazemzadeh et al. Mol. Biol. Evol, 2023](https://doi.org/10.1093/molbev/msad219).*
 
-Team members also recently characterized [a new pathway for ubiquinone production](https://journals.asm.org/doi/full/10.1128/mBio.01319-19), which is O~2~-independent (contrary to the classical, O~2~-dependent one).
+Team members also recently characterized [a new pathway for ubiquinone production](https://journals.asm.org/doi/full/10.1128/mBio.01319-19), which is O2-independent (contrary to the classical, O2-dependent one).
 
 This project is mainly funded by the French National Research Agency, "ANR".
 
