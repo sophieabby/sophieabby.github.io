@@ -11,7 +11,8 @@ redirect_from:
 
 Current Position
 ======
-* Since 2017: CNRS researcher at the [TIMC lab](https://www.timc.fr/en)
+* Since 2017: [CNRS](https://www.cnrs.fr/en) researcher
+  * [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)
   * [TIMC lab](https://www.timc.fr/en)
   * [TrEE team](https://www.timc.fr/en/tree)
   * [CompBio@TrEE group](https://tree-timc.github.io/compbio/) 
