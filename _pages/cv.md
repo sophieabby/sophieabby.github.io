@@ -11,7 +11,10 @@ redirect_from:
 
 Current Position
 ======
-* 2017-: CNRS researcher
+* Since 2017: CNRS researcher at the [TIMC lab](https://www.timc.fr/en)
+  * [TIMC lab](https://www.timc.fr/en)
+  * [TrEE team](https://www.timc.fr/en/tree)
+  * [CompBio@TrEE group](https://tree-timc.github.io/compbio/) 
 
 Education
 ======
