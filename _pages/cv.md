@@ -47,7 +47,7 @@ PhD thesis supervisions
   * PhD thesis of Dr. Rémi Denise (2017-2019). Co-supervision with Dr. Eduardo Rocha. Insitut Pasteur, Paris.
   * PhD thesis of Sophie-Carole Chobert (2021-). Co-supervision with Dr. Fabien Pierrel. TIMC lab, Grenoble. 
   * PhD thesis of Morgane Roger-Margueritat (2022-). Co-supervision with Dr. Fabien Pierrel. TIMC lab, Grenoble.
-  * PhD thesis of Sandy Frank Ngaha (2023-). Co-supervision with Dr. Nelle Varoquaux. TIMC lab, Grenoble.
+  * PhD thesis of Sandy Frank Ngaha (2023-). Co-supervision with Dr. Nelle Varoquaux. TIMC lab, Grenoble. 
 
 Editorial and scientific outreach activities
 ======
