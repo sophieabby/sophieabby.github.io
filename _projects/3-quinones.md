@@ -20,7 +20,7 @@ An example of study using these combined approaches was recently [published in *
 
 *Evolution and diversification of the UQ-FMO protein family. Members of this family of hydroxylases evolved by duplication different regio-selectivities within the ubiquinone biosynthetic pathway - being able to hydroxylase Carbon 1, 5 and/or 6 of the UQ precursor. Figure from [Kazemzadeh et al. Mol. Biol. Evol, 2023](https://doi.org/10.1093/molbev/msad219).*
 
-Team members also recently characterized [a new pathway for ubiquinone production](https://journals.asm.org/doi/full/10.1128/mBio.01319-19), which is O2-independent (contrary to the classical, O2-dependent one).
+Team members also recently characterized [a new pathway for ubiquinone production](https://journals.asm.org/doi/full/10.1128/mBio.01319-19), which is O2-independent (contrary to the classical, O2-dependent one). We are currently working on understanding its origin and physiological role. 
 
 This project is mainly funded by the French National Research Agency, "ANR".
 
