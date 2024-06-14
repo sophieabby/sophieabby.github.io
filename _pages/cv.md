@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+* 2017-: CNRS researcher
+
 Education
 ======
 * B.S. in Biology and Computer Sciences, Paris 7 University, 2004
 * M.S. in Biology and Computer Sciences, Paris 7 University, 2006
 * Ph.D in Bioinformatics, Lyon 1 University, 2010
+* Habilitation, "Chemistry and Life Sciences" Doctoral School, U. Grenoble Alpes, 2024 
 
 Academic experience
 ======
