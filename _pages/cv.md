@@ -118,7 +118,7 @@ Publications
 ======
 See: <https://scholar.google.fr/citations?hl=en&user=pJ3h0iMAAAAJ&view_op=list_works>
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
