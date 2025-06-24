@@ -19,10 +19,10 @@ Current Position
 
 Education
 ======
-* B.S. in Biology and Computer Sciences, Paris 7 University, 2004
-* M.S. in Biology and Computer Sciences, Paris 7 University, 2006
-* Ph.D in Bioinformatics, Lyon 1 University, 2010
 * Habilitation, "Chemistry and Life Sciences" Doctoral School, U. Grenoble Alpes, 2024 
+* Ph.D in Bioinformatics, Lyon 1 University, 2010
+* M.S. in Biology and Computer Sciences, Paris 7 University, 2006
+* B.S. in Biology and Computer Sciences, Paris 7 University, 2004
 
 Academic experience
 ======
@@ -43,21 +43,37 @@ Academic experience
 
 PhD thesis supervisions
 ======
-* PhD thesis of Dr. Rémi Denise (2017-2019). 
-  * Co-supervision with Dr. Eduardo Rocha. 
-  * Topic: "Co-option de systèmes moléculaires complexes de la membrane bactérienne et archéenne"
-  * Insitut Pasteur, Paris.
-* PhD thesis of Sophie-Carole Chobert (2021-). 
-  * Co-supervision with Dr. Fabien Pierrel. 
-  * Topic: "Etude de l’origine et de la diversification des voies de biosynthèse des quinones respiratoires"
+
+**Ongoing**
+
+* PhD thesis of Timothée Salzat-Hervouette (2024-). 
+  * Co-supervision with Dr. Ludovic Pelosi. 
   * TIMC lab, Grenoble. 
+
+* PhD thesis of Emma Bouvet (2024-). 
+  * Co-supervision with Dr. Ludovic Pelosi. 
+  * TIMC lab, Grenoble. 
+
+* PhD thesis of Sandy Frank Ngaha (2023-). 
+  * Co-supervision with Dr. Nelle Varoquaux. 
+  * TIMC lab, Grenoble. 
+
 * PhD thesis of Morgane Roger-Margueritat (2022-). 
   * Co-supervision with Dr. Fabien Pierrel. 
   * Topic: "Mécanismes d’échanges de quinones et impact sur le microbiote intestinal"
   * TIMC lab, Grenoble.
-* PhD thesis of Sandy Frank Ngaha (2023-). 
-  * Co-supervision with Dr. Nelle Varoquaux. 
+
+**Past**
+* PhD thesis of Sophie-Carole Chobert (2021-2024). 
+  * Co-supervision with Dr. Fabien Pierrel. 
+  * Topic: "Etude de l’origine et de la diversification des voies de biosynthèse des quinones respiratoires"
   * TIMC lab, Grenoble. 
+
+* PhD thesis of Dr. Rémi Denise (2017-2019). 
+  * Co-supervision with Dr. Eduardo Rocha. 
+  * Topic: "Co-option de systèmes moléculaires complexes de la membrane bactérienne et archéenne"
+  * Insitut Pasteur, Paris.
+
 
 Editorial and scientific outreach activities
 ======
@@ -70,8 +86,9 @@ Editorial and scientific outreach activities
 * French Microbiology Society
   * Board member of the ["Biodiversité & Evolution" section](https://www.sfm-microbiologie.org/presentation-de-la-sfm/sections-et-groupes-de-travail/biodiversite-et-evolution/). 
 * Organization of conferences:
+  * 2025 [BactoGre](files/ProgrammeBactoGre2025_VF.pdf) - annual meeting of microbiologists in Grenoble
   * 2023 [French Alphy/AIEM meeting](https://alphy-aiem-2023.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en), Grenoble (Joint meeting for "Alignment and Phylogeny", and "Interdisciplinary Approaches for Molecular Evolution" CNRS work groups)
-  * 2021 [Alphy meeting](https://lbbe-dmz.univ-lyon1.fr/spip_alphy/spip.php?article83), virtual edition.
+  * 2021 [Alphy meeting](https://lbbe-dmz.univ-lyon1.fr/spip_alphy/spip.php?article83), virtual edition
 
 Publications
 ======
