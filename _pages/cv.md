@@ -80,21 +80,25 @@ PhD thesis supervisions
 
 Editorial and scientific outreach activities
 ======
-* PCI Microbiology 
+* *PCI Microbiology* 
   * Managing board member
   * <https://microbiol.peercommunityin.org/>
-* PCI Genomics, PCI Evolutionary Biology
+* *PCI Genomics*, *PCI Evolutionary Biology*
   * Recommender
   * Check out: <https://peercommunityin.org/current-pcis/>
 * French Microbiology Society
-  * Board member of the ["Biodiversité & Evolution" section](https://www.sfm-microbiologie.org/presentation-de-la-sfm/sections-et-groupes-de-travail/biodiversite-et-evolution/). 
+  * 2022-2025 – Board member of the ["Biodiversité & Evolution" section](https://www.sfm-microbiologie.org/presentation-de-la-sfm/sections-et-groupes-de-travail/biodiversite-et-evolution/). 
+* Since 2021 – Member of the editorial board of [*Environmental Microbiology*](https://enviromicro-journals.onlinelibrary.wiley.com/journal/14622920)
 * Organization of conferences:
   * 2025 [BactoGre](files/ProgrammeBactoGre2025_VF.pdf) - annual meeting of microbiologists in Grenoble
   * 2023 [French Alphy/AIEM meeting](https://alphy-aiem-2023.sciencesconf.org/?forward-action=index&forward-controller=index&lang=en), Grenoble (Joint meeting for "Alignment and Phylogeny", and "Interdisciplinary Approaches for Molecular Evolution" CNRS work groups)
   * 2021 [Alphy meeting](https://lbbe-dmz.univ-lyon1.fr/spip_alphy/spip.php?article83), virtual edition
+  * Since 2022 – Member of the Program Committee for the French national bioinformatics meeting (JOBIM “Journées Ouvertes En Biologie, Informatique Et Mathématiques”)
 
 Expert activities
 ======
+- **2024** – HCERES expert
+- **Since 2024** – Member of hiring panels for two tenured positions
 - **2023-2024** – Nominated member of the national committee of the CNRS “coNRS” (section 21 « Organisation, expression, évolution des génomes »), in charge of the evaluation and recruitment of CNRS researchers (since 2023)
 - **2019-2024** – Expert reviewer for the European Commission (Marie Skłodowska-Curie Individual Fellowship)
 - **Since 2017** – Part of fifteen PhD committees
