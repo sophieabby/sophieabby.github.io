@@ -95,9 +95,9 @@ Editorial and scientific outreach activities
 
 Expert activities
 ======
-- [2023-2024] Nominated member of the national committee of the CNRS “coNRS” (section 21 « Organisation, expression, évolution des génomes »), in charge of the evaluation and recruitment of CNRS researchers (since 2023)
-- [2019-2024] Expert reviewer for the European Commission (Marie Skłodowska-Curie Individual Fellowship)
-- Part of fifteen PhD committees since 2017
+- **2023-2024** – Nominated member of the national committee of the CNRS “coNRS” (section 21 « Organisation, expression, évolution des génomes »), in charge of the evaluation and recruitment of CNRS researchers (since 2023)
+- **2019-2024** – Expert reviewer for the European Commission (Marie Skłodowska-Curie Individual Fellowship)
+- **Since 2017** – Part of fifteen PhD committees
 - Two software and several genome annotation tools developed
 
 Fundings & awards
