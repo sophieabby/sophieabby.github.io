@@ -92,7 +92,7 @@ Expert activities
 ======
 - **2024** – HCERES expert
 - **Since 2024** – Member of hiring panels for two tenured positions
-- **2023-2024** – Nominated member of the national committee of the CNRS “coNRS” (section 21 « Organisation, expression, évolution des génomes »), in charge of the evaluation and recruitment of CNRS researchers (since 2023)
+- **2023-2024** – Nominated member of the national committee of the CNRS “coNRS” ([section 21](https://www.cnrs.fr/comitenational/sections/section.php?sec=21) « Organisation, expression, évolution des génomes »), in charge of the evaluation and recruitment of CNRS researchers (since 2023)
 - **2019-2024** – Expert reviewer for the European Commission (Marie Skłodowska-Curie Individual Fellowship)
 - **Since 2017** – Part of fifteen PhD committees
 - Two software and several genome annotation tools developed
