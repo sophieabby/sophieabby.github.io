@@ -48,43 +48,37 @@ PhD thesis supervisions
 * PhD thesis of Timothée Salzat-Hervouette (2024-) 
   * Co-supervision with Dr. Fabien Pierrel
   * Topic: Evolution of phototrophic bacteria
-  * TIMC lab, Grenoble 
 
 * PhD thesis of Emma Bouvet (2024-)
   * Co-supervision with Dr. Ludovic Pelosi
   * Topic: Evolution of quinone biosynthetic pathways
-  * TIMC lab, Grenoble
 
 * PhD thesis of Sandy Frank Ngaha (2023-)
   * Co-supervision with Dr. Nelle Varoquaux
   * Topic: machine learning and genome annotation
-  * TIMC lab, Grenoble
 
 * PhD thesis of Morgane Roger-Margueritat (2022-)
   * Co-supervision with Dr. Fabien Pierrel
   * Topic: "Mécanismes d’échanges de quinones et impact sur le microbiote intestinal"
-  * TIMC lab, Grenoble
 
 **Past**
 * PhD thesis of Sophie-Carole Chobert (2021-2024)
   * Co-supervision with Dr. Fabien Pierrel
   * Topic: "Etude de l’origine et de la diversification des voies de biosynthèse des quinones respiratoires"
-  * TIMC lab, Grenoble
+  * Location: TIMC lab, Grenoble
 
 * PhD thesis of Dr. Rémi Denise (2017-2019)
   * Co-supervision with Dr. Eduardo Rocha
   * Topic: "Co-option de systèmes moléculaires complexes de la membrane bactérienne et archéenne"
-  * Insitut Pasteur, Paris
+  * Location: Insitut Pasteur, Paris
 
 
 Editorial and scientific outreach activities
 ======
 * *PCI Microbiology* 
-  * Managing board member
-  * <https://microbiol.peercommunityin.org/>
+  * Managing board member <https://microbiol.peercommunityin.org/>
 * *PCI Genomics*, *PCI Evolutionary Biology*
-  * Recommender
-  * Check out: <https://peercommunityin.org/current-pcis/>
+  * Recommender. Check out: <https://peercommunityin.org/current-pcis/>
 * French Microbiology Society
   * 2022-2025 – Board member of the ["Biodiversité & Evolution" section](https://www.sfm-microbiologie.org/presentation-de-la-sfm/sections-et-groupes-de-travail/biodiversite-et-evolution/). 
 * Since 2021 – Member of the editorial board of [*Environmental Microbiology*](https://enviromicro-journals.onlinelibrary.wiley.com/journal/14622920)
