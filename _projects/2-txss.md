@@ -17,3 +17,7 @@ We study the mechanisms that allowed such functional diversification. To this en
 We investigated the [evolution of the Type III secretion system](https://doi.org/10.1371/journal.pgen.1002983) from the bacterial flagellum, the [distribution of protein secretion systems](https://www.nature.com/articles/srep23080) across (diderm) baceria, and the diversification of the [Type IV filament super-family](https://doi.org/10.1371/journal.pbio.3000390).
 
 In 2020, we wrote [a review article](https://doi.org/10.1016/j.tim.2020.01.005) about the different patterns that we and others observed for the evolution of bacterial secretion systems.
+
+Together with [Nelle Varoquaux](https://nellev.github.io/), we are currently working on the use of machine learning to predict novel secretion systems. [This project](https://anr.fr/Project-ANR-22-CE45-0026) is currently supported by the ANR program agency. 
+
+<img src='/images/ANR-logo-2021-sigle.jpg' width='100' alt='ANR logo' style='float: left; margin-right: 10px;'/>
