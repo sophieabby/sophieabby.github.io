@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 I am a CNRS researcher in Grenoble, France. I work at the [TIMC lab](https://www.timc.fr/en/) as part of the [TrEE team](https://www.timc.fr/en/tree). 
-With my colleagues Nelle Varoquaux and Ivan Junier, we manage the Computational Biology group [CompBio@TrEE](https://tree-timc.github.io/compbio/):  
+
+With my colleague Nelle Varoquaux, we manage the **Computational Biology group** [CompBio@TrEE](https://tree-timc.github.io/compbio/): 
 [<img src='/images/tree-compbio.png' width='50' alt='compBio@TrEE logo' style='float: center;'/>](https://tree-timc.github.io/compbio/)
 
 About my research
