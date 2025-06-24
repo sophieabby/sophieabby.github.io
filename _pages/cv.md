@@ -11,11 +11,10 @@ redirect_from:
 
 Current Position
 ======
-* Since 2017: [CNRS](https://www.cnrs.fr/en) researcher here:  
-  * [CompBio@TrEE group](https://tree-timc.github.io/compbio/) 
-  * [TrEE team](https://www.timc.fr/en/tree)
-  * [TIMC lab](https://www.timc.fr/en)
-  * [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)
+* Since 2017: [CNRS](https://www.cnrs.fr/en) researcher here: [CompBio@TrEE group](https://tree-timc.github.io/compbio/), 
+[TrEE team](https://www.timc.fr/en/tree),
+[TIMC lab](https://www.timc.fr/en),
+[Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)
 
 Education
 ======
