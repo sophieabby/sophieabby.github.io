@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,11 +11,11 @@ redirect_from:
 
 Current Position
 ======
-* Since 2017: [CNRS](https://www.cnrs.fr/en) researcher
-  * [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)
-  * [TIMC lab](https://www.timc.fr/en)
-  * [TrEE team](https://www.timc.fr/en/tree)
+* Since 2017: [CNRS](https://www.cnrs.fr/en) researcher here:  
   * [CompBio@TrEE group](https://tree-timc.github.io/compbio/) 
+  * [TrEE team](https://www.timc.fr/en/tree)
+  * [TIMC lab](https://www.timc.fr/en)
+  * [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/)
 
 Education
 ======
@@ -46,36 +46,36 @@ PhD thesis supervisions
 
 **Ongoing**
 
-* PhD thesis of Timothée Salzat-Hervouette (2024-). 
-  * Co-supervision with Dr. Fabien Pierrel. 
+* PhD thesis of Timothée Salzat-Hervouette (2024-) 
+  * Co-supervision with Dr. Fabien Pierrel
   * Topic: Evolution of phototrophic bacteria
-  * TIMC lab, Grenoble. 
+  * TIMC lab, Grenoble 
 
-* PhD thesis of Emma Bouvet (2024-). 
-  * Co-supervision with Dr. Ludovic Pelosi. 
+* PhD thesis of Emma Bouvet (2024-)
+  * Co-supervision with Dr. Ludovic Pelosi
   * Topic: Evolution of quinone biosynthetic pathways
-  * TIMC lab, Grenoble. 
+  * TIMC lab, Grenoble
 
-* PhD thesis of Sandy Frank Ngaha (2023-). 
-  * Co-supervision with Dr. Nelle Varoquaux. 
+* PhD thesis of Sandy Frank Ngaha (2023-)
+  * Co-supervision with Dr. Nelle Varoquaux
   * Topic: machine learning and genome annotation
-  * TIMC lab, Grenoble. 
+  * TIMC lab, Grenoble
 
-* PhD thesis of Morgane Roger-Margueritat (2022-). 
-  * Co-supervision with Dr. Fabien Pierrel. 
+* PhD thesis of Morgane Roger-Margueritat (2022-)
+  * Co-supervision with Dr. Fabien Pierrel
   * Topic: "Mécanismes d’échanges de quinones et impact sur le microbiote intestinal"
-  * TIMC lab, Grenoble.
+  * TIMC lab, Grenoble
 
 **Past**
-* PhD thesis of Sophie-Carole Chobert (2021-2024). 
-  * Co-supervision with Dr. Fabien Pierrel. 
+* PhD thesis of Sophie-Carole Chobert (2021-2024)
+  * Co-supervision with Dr. Fabien Pierrel
   * Topic: "Etude de l’origine et de la diversification des voies de biosynthèse des quinones respiratoires"
-  * TIMC lab, Grenoble. 
+  * TIMC lab, Grenoble
 
-* PhD thesis of Dr. Rémi Denise (2017-2019). 
-  * Co-supervision with Dr. Eduardo Rocha. 
+* PhD thesis of Dr. Rémi Denise (2017-2019)
+  * Co-supervision with Dr. Eduardo Rocha
   * Topic: "Co-option de systèmes moléculaires complexes de la membrane bactérienne et archéenne"
-  * Insitut Pasteur, Paris.
+  * Insitut Pasteur, Paris
 
 
 Editorial and scientific outreach activities
