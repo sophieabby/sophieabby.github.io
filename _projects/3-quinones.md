@@ -31,6 +31,8 @@ To this end, we proposed an evolutionary scenario to explain the variable conten
 We also contributed to a recent study that reports the **discovery of a novel quinone**, the methyl-plastoquinone, in the phylum **Nitrospirota**. 
 This was [published in *PNAS* in 2025](https://doi.org/10.1073/pnas.2421994122). 
 
+In collaboration with the [BIP](https://bip.cnrs.fr/) and the [LCB](https://lcb.cnrs.fr/) labs in Marseille, we are also currently working on the [ADAPT2Q](https://anr.fr/Projet-ANR-23-CE44-0012) ANR-funded project that aims at understanding the adaptation of quinone-interacting enzymes to the diversity of quinones that have evolved along time. 
+
 These projects are mainly funded by the French National Research Agency, "ANR".
 
 <img src='/images/ANR-logo-2021-sigle.jpg' width='100' alt='ANR logo' style='float: left; margin-right: 10px;'/>
