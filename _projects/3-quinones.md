@@ -22,12 +22,14 @@ An example of study using these combined approaches was recently [published](htt
 
 Team members also recently characterized [a new pathway for ubiquinone production](https://journals.asm.org/doi/full/10.1128/mBio.01319-19), which is O2-independent (contrary to the classical, O2-dependent one). We are currently working on understanding its origin and physiological role. 
 
-We recently [published a study](https://doi.org/10.1093/ismejo/wrae253) on the repertoire of quinones found in Pseudomonadota (ex proteobacteria) and how the dynamics of this repertoire likely accompagnied the diversification of aerobic, facultative aerobic, microaerophilic and anaerobic metabolisms. 
-To this end, we proposed an evolutionary scenario to explain the variable content in quinones across Pseudomonadota. 
+We recently [published a study](https://doi.org/10.1093/ismejo/wrae253) on the repertoire of quinones found in **Pseudomonadota** (ex proteobacteria) and how the dynamics of this repertoire likely accompagnied the diversification of aerobic, facultative aerobic, microaerophilic and anaerobic metabolisms. 
+To this end, we proposed an evolutionary scenario to explain the variable content in quinones across **Pseudomonadota**. 
 <img src='/images/ISMEJ_wrae253f6_red.jpeg' width='800'>
 
-*Global evolutionary scenario for the quinone repertoire of Pseudomonadota. * For full legend see [here](https://academic.oup.com/view-large/figure/499658360/wrae253f6.tif).
+*Global evolutionary scenario for the quinone repertoire of Pseudomonadota.* For full legend see [here](https://academic.oup.com/view-large/figure/499658360/wrae253f6.tif).
 
+We also contributed to a recent study that reports the **discovery of a novel quinone**, the methyl-plastoquinone, in the phylum **Nitrospirota**. 
+This was [published in *PNAS* in 2025](https://doi.org/10.1073/pnas.2421994122). 
 
 These projects are mainly funded by the French National Research Agency, "ANR".
 
