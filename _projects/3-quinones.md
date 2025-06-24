@@ -14,7 +14,7 @@ We investigate in particular, the **evolution of the different biosynthetic path
 
 We combine **experimental and computational approaches**. This goes from developing tools for genome annotation of the proteins involved in the pathways, to the study of their functional diversification, and *in vivo* testing of their predicted functions. 
 
-An example of study using these combined approaches was recently [published](https://doi.org/10.1093/molbev/msad219). We show the diversity of the pathway used by Pseudomonadota to produce ubiquinone, and at the same time explore the diversification of the flavin monooxygenase (FMO) protein family by gene transfers and duplications. 
+An example of study using these combined approaches was recently [published](https://doi.org/10.1093/molbev/msad219). We show the diversity of the pathway used by **Pseudomonadota** (ex-proteobacteria) to produce ubiquinone, and at the same time explore the diversification of the flavin monooxygenase (FMO) protein family by gene transfers and duplications. 
 
 <img src='/images/evol-UQ-FMO-mbe.png' width='400'>
 
@@ -22,7 +22,7 @@ An example of study using these combined approaches was recently [published](htt
 
 Team members also recently characterized [a new pathway for ubiquinone production](https://journals.asm.org/doi/full/10.1128/mBio.01319-19), which is O2-independent (contrary to the classical, O2-dependent one). We are currently working on understanding its origin and physiological role. 
 
-We recently [published a study](https://doi.org/10.1093/ismejo/wrae253) on the repertoire of quinones found in **Pseudomonadota** (ex proteobacteria) and how the dynamics of this repertoire likely accompagnied the diversification of aerobic, facultative aerobic, microaerophilic and anaerobic metabolisms. 
+We recently [published a study](https://doi.org/10.1093/ismejo/wrae253) on the repertoire of quinones found in **Pseudomonadota** and how the dynamics of this repertoire likely accompagnied the diversification of aerobic, facultative aerobic, microaerophilic and anaerobic metabolisms. 
 To this end, we proposed an evolutionary scenario to explain the variable content in quinones across **Pseudomonadota**. 
 <img src='/images/ISMEJ_wrae253f6_red.jpeg' width='800'>
 
