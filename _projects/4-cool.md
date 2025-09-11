@@ -9,7 +9,9 @@ I am a co-investigator of the ["Origin of Life" consortium](https://origin-life.
 I am a member of the [French Astrobiology society](https://www.exobiologie.fr/) and their website is full of interesting content! Also, a website was started to promote [education on Astrobiology](https://astrobioeducation.org/fr/) (in French). 
 
 With my fellow colleagues in Grenoble, we recently organised the [French conference on Astrobiology](https://exobio2023.sciencesconf.org/). 
-I gave lectures to groups of students from a multiple disciplinary backgrounds during the [RED 25 course](https://red-astrobiology.fr/) (Le Teich, France) and the [Summer school “Life on Earth and Beyond”](https://europeanastrobiology.eu/event/summer-school-life-on-earth-and-beyond/) (Hven, Sweden).
+I gave lectures to groups of students from a multiple disciplinary backgrounds during the [RED25 course](https://red-astrobiology.fr/) (Le Teich, France) and the [Summer school “Life on Earth and Beyond”](https://europeanastrobiology.eu/event/summer-school-life-on-earth-and-beyond/) (Hven, Sweden).
+
+You can find my [lecture at the RED25 school here](https://youtu.be/UGSWoODj4vg?si=rAcbAj3KT4L6G-TU). 
 
 This project is funded by the IDEX of the Grenoble Alpes University.
 
