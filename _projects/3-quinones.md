@@ -12,6 +12,8 @@ We investigate in particular, the **evolution of the different biosynthetic path
 
 *Variability of the ubiquinone biosynthetic pathway. In particular, three hydroxylation steps can be performed by different sets of enzymes depending on the species. In purple, UbiM performs the three hydroxylation steps (as in Neisseria meningitidis). In blue, two enzymes are required, as in Rhodobacter capsulatus. In red, three enzymes are required, as in Escherichia coli. Figure from [Kazemzadeh et al. Mol. Biol. Evol, 2023](https://doi.org/10.1093/molbev/msad219).*
 
+We also currently study the evolution of a particular energy metabolism: **phototrophy**. 
+
 We combine **experimental and computational approaches**. This goes from developing tools for genome annotation of the proteins involved in the pathways, to the study of their functional diversification, and *in vivo* testing of their predicted functions. 
 
 ## The QuinEvol project
