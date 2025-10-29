@@ -14,7 +14,9 @@ We investigate in particular, the **evolution of the different biosynthetic path
 
 We combine **experimental and computational approaches**. This goes from developing tools for genome annotation of the proteins involved in the pathways, to the study of their functional diversification, and *in vivo* testing of their predicted functions. 
 
-An example of study using these combined approaches was recently [published](https://doi.org/10.1093/molbev/msad219). We show the diversity of the pathway used by *Pseudomonadota* (ex-proteobacteria) to produce ubiquinone, and at the same time explore the diversification of the flavin monooxygenase (FMO) protein family by gene transfers and duplications. 
+## The QuinEvol project (2021-2025)
+
+An example of study using **experimental and computational approaches** was recently [published](https://doi.org/10.1093/molbev/msad219). We show the diversity of the pathway used by *Pseudomonadota* (ex-proteobacteria) to produce ubiquinone, and at the same time explore the diversification of the flavin monooxygenase (FMO) protein family by gene transfers and duplications. 
 
 <img src='/images/evol-UQ-FMO-mbe.png' width='600'>
 
@@ -28,10 +30,18 @@ To this end, we proposed an evolutionary scenario to explain the variable conten
 
 *Global evolutionary scenario for the quinone repertoire of Pseudomonadota.* For full legend see [here](https://academic.oup.com/view-large/figure/499658360/wrae253f6.tif).
 
+## The ToLQuin project (2026-2029)
+
 We also contributed to a recent study that reports the **discovery of a novel quinone**, the methyl-plastoquinone, in the phylum *Nitrospirota*. 
 This was [published in *PNAS* in 2025](https://doi.org/10.1073/pnas.2421994122). 
 
-In collaboration with the [BIP](https://bip.cnrs.fr/) and the [LCB](https://lcb.cnrs.fr/) labs in Marseille, we are also currently working on the [ADAPT2Q](https://anr.fr/Projet-ANR-23-CE44-0012) ANR-funded project that aims at understanding the adaptation of quinone-interacting enzymes to the diversity of quinones that have evolved along time. 
+
+## The ADAPT2Q project (2023-2027)
+
+In collaboration with the [BIP](https://bip.cnrs.fr/) and the [LCB](https://lcb.cnrs.fr/) labs in Marseille, we are currently working on the [ADAPT2Q](https://anr.fr/Projet-ANR-23-CE44-0012) ANR-funded project that aims at understanding the adaptation of quinone-interacting enzymes to the diversity of quinones that have evolved along time. 
+
+
+### Funders
 
 These projects are mainly funded by the French National Research Agency, "ANR".
 
