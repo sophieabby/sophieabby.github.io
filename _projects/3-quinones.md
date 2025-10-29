@@ -16,7 +16,7 @@ We combine **experimental and computational approaches**. This goes from develop
 
 ## The QuinEvol project
 
-An example of study using **experimental and computational approaches** was recently [published](https://doi.org/10.1093/molbev/msad219). We show the diversity of the pathway used by *Pseudomonadota* (ex-proteobacteria) to produce ubiquinone, and at the same time explore the diversification of the flavin monooxygenase (FMO) protein family by gene transfers and duplications. 
+An example of study that combines **experimental and computational approaches** was recently [published](https://doi.org/10.1093/molbev/msad219). We show the diversity of the pathway used by *Pseudomonadota* (ex-proteobacteria) to produce ubiquinone, and at the same time explore the diversification of the flavin monooxygenase (FMO) protein family by gene transfers and duplications. 
 
 <img src='/images/evol-UQ-FMO-mbe.png' width='600'>
 
@@ -29,6 +29,9 @@ To this end, we proposed an evolutionary scenario to explain the variable conten
 <img src='/images/ISMEJ_wrae253f6_red.jpeg' width='800'>
 
 *Global evolutionary scenario for the quinone repertoire of Pseudomonadota.* For full legend see [here](https://academic.oup.com/view-large/figure/499658360/wrae253f6.tif).
+
+Finally, we could show that *Cyanobacteria* inherited from *Pseudomonadota* an enzyme that is crucial for the production of the plastoquinone (PQ), used in photosynthetic chains. This enzyme is a flavin monooxygenase, and we show it requires O2 to proceed. Hence, most contemporary *Cyanobacteria* need O2 for oxygenic photosynthesis. This work was recently published at **[the FEBS Journal](https://doi.org/10.1111/febs.70272)**. 
+
 
 *The [QuinEvol project](https://anr.fr/Projet-ANR-21-CE02-0018) was funded by the ANR (2021-2025).*
 
