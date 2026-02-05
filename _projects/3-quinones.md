@@ -51,7 +51,10 @@ This was [published in *PNAS* in 2025](https://doi.org/10.1073/pnas.2421994122).
 
 In a newly funded project, together with our partner Dr. Felix Elling (U. Kiel, Germany), we will investigate the **possibility of novel quinones** in the tree of life, explore **lowly characterized quinone pathways**, and investigate the impact of quinone evolution on the **diversification of energy metabolism**. 
 
-*The ToLQuin project is funded by the [ANR](https://anr.fr/) and the [DFG](https://www.dfg.de/en) (2026-2029).*
+*The ToLQuin project is funded by the [ANR](https://anr.fr/) and the [DFG](https://www.dfg.de/en) (2026-2029). It will officially start in May 2026. A post-doc position will soon be announced.*
+
+<img src='/images/ToLQuin_logo_SA.png' width='100' alt='ToLQuin logo' style='float: left; margin-right: 10px;'/>
+
 
 ## The ADAPT2Q project
 
