@@ -6,7 +6,7 @@ collection: projects
 
 We develop software and methods to improve genome annotations.
 
-## MacSyFinder, the macromolecular system finder
+# MacSyFinder, the macromolecular system finder
 
 In particular we developed [MacSyFinder](https://github.com/gem-pasteur/macsyfinder), a software to:
 
@@ -44,3 +44,10 @@ In the following publication, we explain step-by-step how one can write its own 
 If interested, have a look here:
 
 [Abby, Denise and Rocha 2024](https://hal.science/hal-04257010v1) Identification of Protein Secretion Systems in Bacterial Genomes Using MacSyFinder Version 2, 2024 [https://link.springer.com/10.1007/978-1-0716-3445-5_1](https://link.springer.com/10.1007/978-1-0716-3445-5_1)
+
+
+# Machine learning for genome annotation
+
+Together with Nelle Varoquaux, we currently develop machine learning approaches for genome annotation. We supervise a PhD student in the frame of [this project](https://anr.fr/Project-ANR-22-CE45-0026) that is supported by the ANR program agency. More soon! 
+
+<img src='/images/ANR-logo-2021-sigle.jpg' width='100' alt='ANR logo' style='float: left; margin-right: 10px;'/>
