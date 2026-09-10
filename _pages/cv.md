@@ -57,11 +57,14 @@ PhD thesis supervisions
   * Co-supervision with Dr. Nelle Varoquaux
   * Topic: machine learning and genome annotation
 
-* PhD thesis of Morgane Roger-Margueritat (2022-)
-  * Co-supervision with Dr. Fabien Pierrel
-  * Topic: "Mécanismes d’échanges de quinones et impact sur le microbiote intestinal"
 
 **Past**
+
+* PhD thesis of Morgane Roger-Margueritat (2022-2025)
+  * Co-supervision with Dr. Fabien Pierrel
+  * Topic: "Mécanismes d’échanges de quinones et impact sur le microbiote intestinal"
+  * Location: TIMC lab, Grenoble
+
 * PhD thesis of Sophie-Carole Chobert (2021-2024)
   * Co-supervision with Dr. Fabien Pierrel
   * Topic: "Etude de l’origine et de la diversification des voies de biosynthèse des quinones respiratoires"
