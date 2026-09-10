@@ -102,8 +102,9 @@ Expert activities
 
 Fundings & awards
 ======
-- **2023** – CNRS Bronze medal
+- **2026-2029** - PI of the international, collaborative ANR project [ToLQuin](https://anr.fr/Project-ANR-25-CE02-6248) (350k€ for the team) with Dr. Felix Elling (U. Heidelberg, Germany, DFG-funded)
 - **2023-2028** – co-PI (partner) of two collaborative ANR projects (340k€ for the team), [ADAPT2Q](https://anr.fr/Projet-ANR-23-CE44-0012) and [AbiSYM](https://anr.fr/Projet-ANR-23-CE02-0016).
+- **2023** – CNRS Bronze medal
 - **2022-2025** – co-PI of the renewed Université Grenoble Alpes consortium/project “Cross Disciplinary Project - Origin of Life” (PI: Xavier Delfosse, astronomer at IPAG, 600k€, ~60k€ for the team)
 - **2021-2025** – PI of a 42 months ANR project (AAPG 2021 call) (232k€), [QUINEVOL](https://anr.fr/Projet-ANR-21-CE02-0018)
 - **2020-2021** – PI of a 18 months project (IDEX Grenoble Alpes Université “Initiatives de Recherche Stratégiques”) (19k€) 
