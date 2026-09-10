@@ -94,7 +94,7 @@ Editorial and scientific outreach activities
 Expert activities
 ======
 - **2024** – HCERES expert
-- **Since 2024** – Member of hiring panels for three tenured positions
+- **Since 2024** – Member of three hiring panels for Assistant Professor recruitment committees
 - **2023-2025** – Nominated member of the national committee of the CNRS “coNRS” ([section 21](https://www.cnrs.fr/comitenational/sections/section.php?sec=21) « Organisation, expression, évolution des génomes »), in charge of the evaluation and recruitment of CNRS researchers
 - **2019-2024** – Expert reviewer for the European Commission (Marie Skłodowska-Curie Individual Fellowship)
 - **Since 2017** – Part of fifteen PhD committees
